@@ -3,10 +3,19 @@ body {
   text-align: center;
   background-color: black;
 }
+video {
+  <source src="resources/videos/excursion(2).mp4" type="video/mp4")
+}
 h1 {
   font-weight: normal;
   font-size: 50px;
   text-align: center;
+  color: white;
+}
+h2 {
+  display: block;
+  font-weight: bold;
+  font-size: 42px;
   color: white;
 }
 p {
@@ -18,9 +27,9 @@ a {
   font-size: 16px;
 }
 .icon-phone {
+  margin-top: 25px;
   display: block;
-    margin: auto;
-    
+  margin: auto;
 }
 .footer {
   text-align: right;
